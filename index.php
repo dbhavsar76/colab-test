@@ -1,5 +1,5 @@
 <?php
-// homepage
+// Some other text
 ?>
 <!DOCTYPE html>
 <html lang="en">
