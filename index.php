@@ -1,5 +1,7 @@
 <?php
 // Some other text
+// homepage
+$user = 'DhrV';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h2><?= "Hello, $user!" ?></h2>
 </body>
 </html>
